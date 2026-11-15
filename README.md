@@ -1,16 +1,5 @@
 # app
 
-A new Flutter project.
+I developed this project to learn a little more about mobile development and establish the difference between web development and mobile development. It helped me understand the basics of the Dart language and Flutter, a modern mobile app framework.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image alt](https://github.com/obed885/calculatrice_mobile/blob/f88e52a9ac2a649c7d400143837e6312073785b8/Mobile%20app%20calc.jpeg)
